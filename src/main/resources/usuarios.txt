@@ -1,0 +1,3 @@
+1;12345678;12345678;Gonzalo Bautista;gonza@gmail.com
+1;92345678;92345678;Alvaro Bautista;alvaro@gmail.com
+2;32345678;32345678;Estefania Aponte;estefania@gmail.com
